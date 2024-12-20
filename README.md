@@ -1,8 +1,8 @@
 # ADT
-for SE102 Tutorial 1 2_2024_section1 953102-ADT &amp; PROBLEM SOLVING-Lec.701[2/67]
+for SE102 Tutorial 2 2_2024_section1 953102-ADT &amp; PROBLEM SOLVING-Lec.701[2/67]
 
 672115016 Natthapat Jagkhuruang 
-SE102 Tutorial 1 2_2024_section1 953102-ADT & PROBLEM SOLVING-Lec.701[2/67]
+SE102 Tutorial 2 2_2024_section1 953102-ADT & PROBLEM SOLVING-Lec.701[2/67]
 
 output :
 Total student is : 30
